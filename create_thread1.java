@@ -7,7 +7,7 @@ class A implements Runnable
 		int i;
 		for(i=0;i<=10;i++)
 		{
-			System.out.println("thread A"+i);
+			System.out.println("thread Aaaaaaa"+i);
 		}
 	}
 }
